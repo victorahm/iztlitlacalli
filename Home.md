@@ -10,6 +10,9 @@ Code snippets, algorithms, language-specific tips, and development best practice
 ### [[Linux/Index|🐧 Linux]]
 System administration, command-line tools, configuration files, and troubleshooting guides.
 
+### [[Quick-Reference/Essential Commands|⚡ Quick Reference]]
+Essential commands, one-liners, and cheat sheets for daily development tasks.
+
 ## 📝 Quick Actions
 
 - **Create a new programming note**: Use the [[Templates/Programming Note Template]]
