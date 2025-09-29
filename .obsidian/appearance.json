@@ -1,0 +1,14 @@
+{
+  "baseFontSize": 16,
+  "showLineNumber": false,
+  "lineWrap": true,
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "tabSize": 4,
+  "sourceMode": false,
+  "showIndentGuide": true,
+  "showFrontmatter": true,
+  "interface": {
+    "showViewHeader": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "theme": "obsidian",
+  "pluginEnabledStatus": {
+    "file-explorer": true,
+    "global-search": true,
+    "switcher": true,
+    "graph": true,
+    "backlink": true,
+    "canvas": true,
+    "outgoing-link": true,
+    "tag-pane": true,
+    "page-preview": true,
+    "daily-notes": true,
+    "templates": true,
+    "note-composer": true,
+    "command-palette": true,
+    "markdown-importer": true,
+    "zk-prefixer": false,
+    "random-note": false,
+    "outline": true,
+    "word-count": true,
+    "slides": false,
+    "audio-recorder": false,
+    "workspaces": false,
+    "file-recovery": true,
+    "publish": false,
+    "sync": false
+  },
+  "enabledPlugins": [
+    "obsidian-git"
+  ],
+  "promptDelete": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "Assets",
+  "showLineNumber": false,
+  "spellcheck": true
+}
