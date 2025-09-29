@@ -1,0 +1,21 @@
+# Obsidian workspace and cache files
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/plugins/*/
+.obsidian/hotkeys.json
+.obsidian/graph.json
+.obsidian/starred.json
+
+# Temporary files
+.tmp/
+*.tmp
+*~
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+dist/
+build/
